@@ -1,12 +1,7 @@
-input-wrapper{
-    /* Intended to be a wrapper for the
-        input button, but I hate CSS and have legit spent 45 minutes trying to
-        get this garbage working so for now it can fuck off*/
-}
-input {
-    background-color: brown;
-    margin-left: 30%;
-    margin-right: 30%;
-    width: 40%;
+body{
+
 }
 
+li.social-media-icons{
+    padding: 0px;
+}
